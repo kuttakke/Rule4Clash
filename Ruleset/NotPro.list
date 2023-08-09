@@ -1,0 +1,10 @@
+# Generally do not need proxy
+
+DOMAIN-SUFFIX,worldbank.org
+DOMAIN-SUFFIX,asmr-*.com
+DOMAIN-SUFFIX,fast.kiko-play-niptan.one
+DOMAIN-SUFFIX,raw.kiko-play-niptan.one
+DOMAIN-SUFFIX,kutake.top
+DOMAIN-SUFFIX,prpo.top
+IP-CIDR,43.128.25.180/32,no-resolve
+IP-CIDR,156.224.22.186/32,no-resolve
