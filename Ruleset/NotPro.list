@@ -2,9 +2,9 @@
 
 DOMAIN-SUFFIX,worldbank.org
 DOMAIN-SUFFIX,worldbank.scene7.com
-DOMAIN-SUFFIX,asmr-100.com
-DOMAIN-SUFFIX,fast.kiko-play-niptan.one
-DOMAIN-SUFFIX,raw.kiko-play-niptan.one
+DOMAIN-SUFFIX,asmr-300.com
+# DOMAIN-SUFFIX,fast.kiko-play-niptan.one
+# DOMAIN-SUFFIX,raw.kiko-play-niptan.one
 DOMAIN-SUFFIX,kutake.top
 DOMAIN-SUFFIX,prpo.top
 IP-CIDR,43.128.25.180/32,no-resolve
