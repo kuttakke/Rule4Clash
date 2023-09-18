@@ -10,3 +10,4 @@ DOMAIN-SUFFIX,prpo.top
 IP-CIDR,43.128.25.180/32,no-resolve
 IP-CIDR,156.224.22.186/32,no-resolve
 DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,xboxlive.com
