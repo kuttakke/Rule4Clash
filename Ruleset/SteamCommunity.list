@@ -1,1 +1,4 @@
-﻿DOMAIN-SUFFIX,steamcommunity.com
+DOMAIN-SUFFIX,steamcommunity.com
+DOMAIN,steamcommunity-a.akamaihd.net
+DOMAIN,steamuserimages-a.akamaihd.net
+DOMAIN,steamusercontent-a.akamaihd.net
